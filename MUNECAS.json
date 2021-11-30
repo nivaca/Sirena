@@ -1,7 +1,8 @@
 [
 
   {
-    "comentario":"Hay cinco tipos de texto en este archivo de JSON: 'titulo' (TI), 'texto único' (TU), 'decisión'(DE), 'texto dependiente'(TD) y FIN. Todos son objetos de JSON e incluyen su tipo entre sus características. El programa sabe qué hacer con cada elemento de este archivo JSON dependiendo del tipo que tiene registrado. Todo elemento tendrá un 'tipo', un 'índice', que indique su posición en la lista, un 'siguiente' que indique qué elemento le sigue, y un 'contenido'. También pueden tener dentro de sí un 'comentario' sobre esa sección. En el caso del título también incluí 'poema', que le dice al programa desde el principio cuantas secciones tiene el poema que se va a armar.",
+    "versión":"v.1.0, 2021-09-27",
+    "comentario":"Hay cinco tipos de texto en este archivo de JSON: 'titulo' (TI), 'texto único' (TU), 'decisión'(DE), 'texto dependiente'(TD) y FIN. Todos son objetos de JSON e incluyen su tipo entre sus características. El programa sabe qué hacer con cada elemento de este archivo JSON dependiendo del tipo que tiene registrado. Todo elemento tendrá un 'tipo', un 'índice', que indique su posición en la lista, un 'siguiente' que indique qué elemento le sigue, y un 'contenido'. También pueden tener dentro de sí un 'comentario' sobre esa sección. En el caso del título también incluí 'poema', que le dice al programa desde el principio cuantas secciones tiene el poema que se va a armar y armé de una vez la lista de las variaciones con el número correcto de detalles que van a cambiar.",
     "tipo": "TI",
     "indice": 0,
     "contenido": "MUÑECAS",
@@ -205,7 +206,7 @@
         "num": 1,
         "opción": "Cierras los ojos, te concentras e intentas devolverte en tu memoria lo que más puedes, hasta determinar que es _______ [bold green](ESCRIBE TU PROPIA RESPUESTA)[/]",
         "detalle": [],
-        "input":"[bold green](ESCRIBE AQUÍ)[/] tu primer recuerdo es:",
+        "input":"[bold green](ESCRIBE AQUÍ)[/] tu primer recuerdo es: ",
         "verso": [],
         "siguiente": 16
       },
@@ -244,6 +245,7 @@
         "num": 2,
         "opción": "acompañarla y ver las muñecas más de cerca. ",
         "detalle": [],
+        "coleccionable": "tarjeta con tema de conversación",
         "input":"",
         "verso": [{"v":"queda esperando tu regreso\nen un secreto que tomas prestado.", "preposición":0, "parte":4}],
         "siguiente": 19
@@ -403,6 +405,7 @@
       {
         "num": 2,
         "opción": "devolver todas las tarjetas excepto esa y te la guardas en el bolsillo. ",
+        "coleccionable": "tarjeta con tema de conversación",
         "detalle": [],
         "input":"",
         "verso": [],

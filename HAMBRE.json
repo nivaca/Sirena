@@ -1,6 +1,7 @@
 [
 	
 	{
+		"versión":"v.1.0, 2021-11-02",
 		"tipo": "TI",
 		"indice": 0,
 		"contenido": "HAMBRE",
@@ -164,7 +165,7 @@
 				"opción": "Bajarte del carro con una excusa cualquiera para ir a buscar un desodorante.",
 				"detalle": [],
 				"input":"",
-				"verso": [{"v":"y donde no es recibida\ncrea rincones\ny esconde su influencia.", "preposición":0, "parte":2}],
+				"verso": [{"v":"y donde no es recibida\ncrea rincones,\n esconde su influencia.", "preposición":0, "parte":2}],
 				"siguiente": 19
 			},
 			{
@@ -416,6 +417,7 @@
 				"num": 2,
 				"opción": "Te quedaste quieto, sin saber cómo reaccionar. ",
 				"detalle": [],
+				"coleccionable": "portavasos con un número de teléfono",
 				"input":"",
 				"verso": [],
 				"siguiente": 48
@@ -434,6 +436,7 @@
 		"tipo": "TU",
 		"indice": 48,
 		"contenido": "    —Por si estás aburrido con esto me contactas — dijo, dejó algo en tu bolsillo y sacó la mano acariciándote ligeramente. Se fue antes de que pudieras contestar.\n\n    —¿Qué…? — dijiste sin dirigirte a nadie en particular y sacaste lo que te había dejado. Era un portavasos de cartón con un número de teléfono escrito en la parte de atrás. ¿Pensó que eras gay? ¿Sería por algo de tu ropa? ¿O por tu comportamiento? Te sentiste molesto e incómodo, y aún más determinado a seducir a la primera que te mostrara al menos un poco de interés. Necesitabas reafirmarte y demostrarle al tipo que se había equivocado. Entonces viste a Mariana rotándose un cartón de aguardiente con sus amigas y haciéndote gestos de que te acercaras. Mecánicamente devolviste el portavasos a tu bolsillo y te dirigiste hacia ella.",
+		"coleccionable":"Un portavasos de cartón",
 		"siguiente": 53
 	},
 
@@ -524,14 +527,14 @@
 	{
 		"tipo": "TU",
 		"indice": 61,
-		"contenido": "Optaron por llamarla Milú. Cuando por fin la llevaron a la finca, Tropi sorprendentemente había mejorado, había logrado incorporarse y caminar un poco, pero poco después empeoró de nuevo. Le dio moquillo, se lo pegó a Milú como regalo de despedida y estiró la pata. Otro perro muerto en la finca, y Milú, chiquitica, parecía que tampoco iba a sobrevivir. Casi se hunden juntos. Aparece en tu mente la imagen de Mariana bailando pegada a ti, la sensación de la fricción entre sus cuerpos, pero las borras de tu cerebro. “No pienses en  eso,” te dices, “vuelve a Tropi.”",
+		"contenido": "Optaron por llamarla Milú. Cuando por fin la llevaron a la finca, Tropi sorprendentemente había mejorado, había logrado incorporarse y caminar un poco, pero Milú fue su perdición. Ella llegó con moquillo y se lo pasó a Tropi como una maldición. El día después de la llegada de Milú, Tropi estiró la pata. Otro perro muerto en la finca, y Milú, chiquitica, parecía que tampoco iba a sobrevivir. Casi se hunden juntos. Aparece en tu mente la imagen de Mariana bailando pegada a ti, la sensación de la fricción entre sus cuerpos, pero las borras de tu cerebro. “No pienses en  eso,” te dices, “vuelve a Tropi.”",
 		"siguiente": 62
 	},
 
 	{
 		"tipo": "TU",
 		"indice": 62,
-		"contenido": "Recuerdas que te tomó por sorpresa la muerte de Tropi. Tampoco creías que fuera a vivir mucho, pero sentías que ese perro y tú habían quedado conectados de alguna manera. Te enteraste que se había muerto cuando ibas camino a la finca con tu papá. Cuando llegaron lo viste tieso sobre un costal, con las patas amarradas para que fuera más fácil de cargar. Inerte, como un muñeco de trapo, como Simón tumbado sobre un sillón. Te sientes culpable, pero vuelves a alejarte de los recuerdos de anoche. ",
+		"contenido": "Recuerdas que te tomó por sorpresa la muerte de Tropi. Tampoco creías que fuera a sobrevivir mucho con ese estilo de vida, pero sentías que ese perro y tú habían quedado conectados de alguna manera. Te enteraste que se había muerto cuando ibas camino a la finca con tu papá. Cuando llegaron lo viste tieso sobre un costal, con las patas amarradas para que fuera más fácil de cargar. Inerte, como un muñeco de trapo, como Simón tumbado sobre un sillón. Te sientes culpable, pero vuelves a alejarte de los recuerdos de anoche. ",
 		"siguiente": 63
 	},
 
